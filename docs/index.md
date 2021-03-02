@@ -2,7 +2,7 @@
 
 ## Theme 1 - University Learners - Work Package 1.1
 
-Co-leads: stef test local change
+Co-leads: stef test local change 2
 
 - [Chris Sharp, IBM](https://www.linkedin.com/in/chris-sharp/)
 - [David Bowers, Open University](http://www.open.ac.uk/people/dsb69)
